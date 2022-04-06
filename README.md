@@ -26,34 +26,7 @@
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this 
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
-* `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
-
-
-## Deploy
-You can deploy this bot anywhere.
-
-
-
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-
-<details><summary>Deploy To VPS</summary>
-<p>
-<pre>
-git clone https://github.com/Aadhi000/Ajax
-# Install Packages
-pip3 install -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
-</pre>
-</p>
-</details>
+* `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space
 
 
 ## Commands
