@@ -40,7 +40,7 @@ async def start(client, message):
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MWUpdatez'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/OpusTechz')
+            InlineKeyboardButton('💠 𝗢𝗪𝗡𝗘𝗥 💠', url='https://t.me/BKC00bot')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -83,7 +83,7 @@ async def start(client, message):
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MWUpdatez'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/OpusTechz')
+            InlineKeyboardButton('💠 𝗢𝗪𝗡𝗘𝗥 💠', url='https://t.me/BKC00bot')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
