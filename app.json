@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Aadhi000/Ajax",
-    "repository": "https://github.com/Aadhi000/Ajax",
+    "website": "https://github.com/advfilter/Ajax",
+    "repository": "https://github.com/advfilter/Ajax",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
