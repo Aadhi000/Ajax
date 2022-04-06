@@ -22,7 +22,7 @@ async def save_group(bot, message):
         if message.chat.id in temp.BANNED_CHATS:
             # Inspired from a boat of a banana tree
             buttons = [[
-                InlineKeyboardButton('𝗢𝗪𝗡𝗘𝗥', url=f'https://t.me/{SUPPORT_CHAT}')
+                InlineKeyboardButton('𝗢𝗪𝗡𝗘𝗥', url=f'https://t.me/BKC00bot')
             ]]
             reply_markup=InlineKeyboardMarkup(buttons)
             k = await message.reply(
@@ -38,7 +38,7 @@ async def save_group(bot, message):
             return
         buttons = [
             [
-                InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MWUpdatez')
+                InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/Desi_iBoTs')
             ],
             [
                 InlineKeyboardButton('♻️ HΞLᎮ ♻️', url=f"https://t.me/{temp.U_NAME}?start=help")
@@ -46,7 +46,7 @@ async def save_group(bot, message):
             ]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
-            text=f"<b>Thankyou For Adding Me In {message.chat.title} ❣️\n\nIf You Have Any Questions & Doubts About Using Me Contact Owner ›› @BKC0001.</b>",
+            text=f"<b>Thankyou For Adding Me In {message.chat.title} ❣️\n\nIf You Have Any Questions & Doubts About Using Me Contact Owner ›› @BKC00bot.</b>",
             reply_markup=reply_markup)
     else:
         for u in message.new_chat_members:
@@ -69,7 +69,7 @@ async def leave_a_chat(bot, message):
         chat = chat
     try:
         buttons = [[
-            InlineKeyboardButton('𝗢𝗪𝗡𝗘𝗥', url=f'https://t.me/{SUPPORT_CHAT}')
+            InlineKeyboardButton('𝗢𝗪𝗡𝗘𝗥', url=f'https://t.me/BKC00bot')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await bot.send_message(
