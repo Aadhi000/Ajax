@@ -7,9 +7,9 @@
 <a href="https://youtube.com">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
 
-[![Stars](https://img.shields.io/github/stars/MDAltantawy/Ajax?style=flat-square&color=orange)](https://github.com/Aadhi000/Ajax/stargazers)
-[![Forks](https://img.shields.io/github/forks/MDAltantawy/Ajax?style=flat-square&color=blue)](https://github.com/Aadhi000/Ajax/fork)
-[![Size](https://img.shields.io/github/repo-size/MDAltantawy/Ajax?style=flat-square&color=black)](https://github.com/Aadhi000/Ajax)   
+[![Stars](https://img.shields.io/github/stars/MDAltantawy/Ajax?style=flat-square&color=orange)](https://github.com/MDAltantawy/Ajax/stargazers)
+[![Forks](https://img.shields.io/github/forks/MDAltantawy/Ajax?style=flat-square&color=blue)](https://github.com/MDAltantawy/Ajax/fork)
+[![Size](https://img.shields.io/github/repo-size/MDAltantawy/Ajax?style=flat-square&color=black)](https://github.com/MDAltantawy/Ajax)   
 [![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=110)](https://github.com/MDAltantawy/Ajax)   
 [![Contributors](https://img.shields.io/github/contributors/MDAltantawy/Ajax?style=flat-square&color=green)](https://github.com/MDAltantawy/Ajax/graphs/contributors)
 ## Features
@@ -50,7 +50,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax">
+<a href="https://heroku.com/deploy?template=https://github.com/MDAltantawy/Ajax">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
