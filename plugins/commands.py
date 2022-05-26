@@ -18,7 +18,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃', url=f"https://t.me/Aadhi011")
+                InlineKeyboardButton('𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃', url=f"https://t.me/iamkannada")
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -36,14 +36,14 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/Mahzas_world_channel'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/Movie_channel_0')
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/Updates_kannada_channelss'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/FIRST360')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('CONTACT ME', url='https://t.me/filesharingnewbot'),
+            InlineKeyboardButton('CONTACT ME', url='https://t.me/iamkannada'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/filesharingnewbot')
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/Updates_kannada_channelss')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -62,7 +62,7 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "🔥 JOIИ CHAИИΞL 🔥", url=invite_link.invite_link
+                    "🔥 JOIИ CHAИИΞL NOW 🔥", url=invite_link.invite_link
                 )
             ]
         ]
@@ -80,11 +80,11 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/Mahzas_world_channel'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/Mahzas_world_channel')
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/Updates_kannada_channelss'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/Updates_kannada_channelss')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('CONTACT ME', url='https://t.me/filesharingnewbot'),
+            InlineKeyboardButton('CONTACT ME', url='https://t.me/Kannada_updates_channelbot'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/filesharingnewbot')
