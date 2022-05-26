@@ -8,11 +8,11 @@ class script(object):
 
 ║╭━━━━━━━━━━━━━━━➣ 
 
-║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 -  Tiger Shroff
+║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 -  𝑁𝑒𝑒𝑑 𝑠𝑝𝑒𝑒𝑑
 
-║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - :<a href='tg://user?id=1428711323'><b>{A}{p}{p}{u}®{offline}®</b></a>
+║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - :<a href='tg://user?id=1445329686'><b>{A}{p}{p}{u}®{offline}®</b></a>
 
-║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href='https://t.me/filesharingnewbot'>Everyone in this journey </a>
+║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href='https://t.me/Kannada_updates_channelbot'>Everyone in this journey </a>
 
 ║➠ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - <a href='https://docs.pyrogram.org/'>𝑷𝒚𝒕𝒉𝒐𝒏 3 </a>
 
@@ -24,7 +24,7 @@ class script(object):
 
 ║➠ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 - <a href='https://t.me/bx_mohalal_bot'>𝒗8.7.2[𝑴𝒂𝒋𝒐𝒓]</a>
 
-║➠ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 - <a href='https://t.me/+zUMNAWFERRY0ZGY1'>𝑪𝒍𝒊𝒄𝒌 𝑯𝒆𝒓𝒆</a>
+║➠ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 - <a href='https://t.me/Updates_kannada_channelss'>𝑪𝒍𝒊𝒄𝒌 𝑯𝒆𝒓𝒆</a>
 
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍"""
 
@@ -32,7 +32,7 @@ class script(object):
 <b>›› 𝙳𝙾 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝙰 𝙱𝙾𝚃 𝚂𝙰𝙼𝙴 𝙻𝙸𝙺𝙴 𝚃𝙷𝙸𝚂</b>
 <b>›› 𝚆𝙸𝚃𝙷 𝙰𝙻𝙻 𝚈𝙾𝚄𝚁 𝙲𝚁𝙴𝙳𝙸𝚃𝚂</b>
 <b>›› 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁𝚂𝙷𝙸𝙿</b>
-<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/Muh_sabik>Muh_sabik</a></b>"""
+<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/iamkannada>NEED_FOR_SPEED</a></b>"""
 
     SOURCE_TXT = """<b>Donation</b>
 
@@ -46,7 +46,7 @@ class script(object):
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/Muh_sabik><b>Muh_sabik</b></a> ᚛━━━━━━━━━━━━"""
+━━━━━━━━━━━━᚜ <a href=https://t.me/iamkannada><b>NEED_FOR_SPEED</b></a> ᚛━━━━━━━━━━━━"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>  
 
 - Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭ will respond whenever a keyword is found the message
@@ -71,7 +71,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛�
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/Muh_sabik)</code>
+<code>[Button Text](buttonurl:https://t.me/Magic121)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -144,4 +144,4 @@ This module only works for my OᗯᑎEᖇ⚡
 <b>/carbon ›› 𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙰𝙽𝚈 𝚃𝙴𝚇𝚃 𝙼𝙴𝚂𝚂𝙰𝙶𝙴</b>
 
 <b>𝚆𝙾𝚁𝙺𝚂 𝙾𝙽 𝙱𝙾𝚃𝙷 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙿𝙼</b>
-<b>𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ››</b> <a href=https://t.me/Muh_sabik>Muh_sabik</a></b>"""
+<b>𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ››</b> <a href=https://t.me/MAGIC121>MAGIC_LOGIC</a></b>"""
