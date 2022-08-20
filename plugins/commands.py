@@ -36,11 +36,11 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MWUpdatez'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/OpusTechz')
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/AS_movie_request_group'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/+H7Brn_NwwtFlZGRl')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('CONTACT ME', url='https://t.me/AboutAadhi'),
+            InlineKeyboardButton('CONTACT ME', url='https://t.me/BrokenBoy204'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA')
@@ -80,11 +80,11 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MWUpdatez'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/OpusTechz')
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/AS_movie_request_group'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/+H7Brn_NwwtFlZGRlhttps://t.me/+H7Brn_NwwtFlZGRl')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('CONTACT ME', url='https://t.me/AboutAadhi'),
+            InlineKeyboardButton('CONTACT ME', url='https://t.me/BrokenBoy204'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA')
